@@ -1,3 +1,9 @@
+---
+layout: default
+title: rPICKLE Method
+math: true
+---
+
 # Randomized Physics-informed Conditional Karhunen-Loève expansions (rPICKLE) for Large-scale High-dimensional Bayesian Inversion
 
 Implementations of the "randomize-then-optimize" approach for sampling PICKLE posteriors in the Bayesian framework, as described in the paper:
